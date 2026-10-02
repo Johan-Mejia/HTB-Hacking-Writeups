@@ -11,6 +11,7 @@ Cada carpeta en este repositorio corresponde a un laboratorio específico e incl
 | Máquina | Sistema Operativo | Dificultad | Vector Principal | Escalación de Privilegios | Writeup |
 |---|---|---|---|---|---|
 | **Reactor** | Linux 🐧 | Fácil | CVE-2025-55182 (Next.js RCE) | Node.js V8 Inspector | [Ver Informe](./Machine-Reactor) |
+| **Cap** | Linux 🐧 | Fácil | IDOR & Tráfico FTP en PCAP | Linux Capabilities (`cap_setuid`) | [Ver Informe](./Machine-Cap) |
 
 ---
 
